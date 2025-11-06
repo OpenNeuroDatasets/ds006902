@@ -3,6 +3,8 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "[Unspecified]"
-    ]
+        "[Unspecified]",
+        "Maria Geisler, Marco Herbsleb, Feliberto de la Cruz, Sabrina von Au, Andy Schumann, Ilona Croy, Karl-Jürgen Bär"
+    ],
+    "License": "CC0"
 }
